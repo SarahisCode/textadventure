@@ -1,6 +1,9 @@
+OLD
 1/4/2020 3:05 Officially released for beta testing with weapons, combat and armor. Planning to add shields(defense) and possibly armor sets(suit, gloves, boots, etc.)
 1/4/2020 3:40 Added shields/defense
 1/9/2020 Inventory coming up
 9/5/2021 Revisited after 1 and a half years. Cleaning.
 11/20/2021 Finished cleaning.
 7/17/2022 Did a little more cleaning, thanks to Garmy on euphoria
+NEW
+4/10/2023 REWRITING! Starting from scratch with TDD(Test Driven Development)
